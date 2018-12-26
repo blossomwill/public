@@ -23,7 +23,7 @@
 </div>
 
 <div class="west about-team-pic">
-![minsu](https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg)
+<img src = "https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg" width="100"></img>
 </div>
 
 <div class="south-west text-06">
