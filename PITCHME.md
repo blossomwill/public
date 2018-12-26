@@ -7,7 +7,7 @@
 <i class="fa fa-arrow-down text-black" aria-hidden="true"> </i>
 
 <div class="south docslink span-50">
-[최강 1조](https://gitpitch.com/docs/the-template)
+[소개합니다](https://gitpitch.com/docs/the-template)
 </div>
 
 
@@ -16,14 +16,14 @@
 
 <!-- .slide: data-background-image="./assets/md/assets/blue.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
 
-<span class="menu-title" style="display: none">Meet The Team</span>
+<span class="menu-title" style="display: none">One Team</span>
 
 <div class="north text-white span-100">
-<span style="font-size: 1.5em">Meet The Team</span>
+<span style="font-size: 1.5em">One Team</span>
 </div>
 
 <div class="west about-team-pic">
-![Image](./assets/md/assets/wendy.jpg)
+![minsu](https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg)
 </div>
 
 <div class="south-west text-06">
