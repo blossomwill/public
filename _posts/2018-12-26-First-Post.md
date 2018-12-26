@@ -2,7 +2,7 @@
 title: 자기 주도 학습
 ---
 
-# [1주차 Reflection] Design Thinking 방법론
+## [1주차 Reflection] Design Thinking 방법론
 
 |단계|정의|활용 Tool|
 |공감|공감은 다른 사람의 입장이 되어 그들의 시선으로 “바라보는” 능력입니다.|공감지도, 인터뷰, 직접체험|
