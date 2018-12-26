@@ -23,15 +23,15 @@
 </div>
 
 <div class="west about-team-pic">
-<img src = "https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg" width="100"></img>
+<img src = "https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg" width="150"></img>
 </div>
 
 <div class="south-west text-06">
-<span style="color: #4487F2">Wendy Sesay</span>
+<span style="color: #4487F2">서민수</span>
 <br><br>
-<i class="fa fa-twitter" aria-hidden="true"> wendy</i>
+<i>  해리포터</i>
 <br>
-Graphic Designer
+신중함, 
 </div>
 
 <div class="midpoint about-team-pic about-team-pic-center">
