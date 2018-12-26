@@ -24,7 +24,7 @@
 
 ---
 ### 윤종원
- <img src ="https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" width="25%"></img>
+ <img src ="https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" height = "50" width="20%"></img>
 #### 별명과 성격
 종디
 <br>
