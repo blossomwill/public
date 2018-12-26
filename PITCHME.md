@@ -33,6 +33,7 @@
 
 ---
 # 1조 서민호입니다.
+<src=![minho](https://user-images.githubusercontent.com/45934804/50434132-96ca7e80-091f-11e9-88b9-88e0f149e6e2.png)>
 ---
 # 이름과 별명, 성격
 서민호
