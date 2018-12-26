@@ -34,7 +34,7 @@
 신년계획 세우기
 ---
 ### 김유림
-<img src = "https://user-images.githubusercontent.com/45934804/50434412-5dded980-0920-11e9-98c9-c0744dabe076.jpg" width="30%"></img>
+<img src = "https://user-images.githubusercontent.com/45934804/50434412-5dded980-0920-11e9-98c9-c0744dabe076.jpg" height = "200" width="30%"></img>
 #### 별명과 성격
 얼굴이 빨개서 홍당무
 <br>
