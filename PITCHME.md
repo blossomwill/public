@@ -26,7 +26,8 @@
 ### 1조 윤종원입니다.
  <img src ="https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" width="30%"></img>
 #### 별명과 성격
-종디 
+종디
+<br>
 열정부족, 걱정, 역지사지
 #### 연말계획
 동네친구들 만나기
@@ -36,6 +37,7 @@
 <img src = "https://user-images.githubusercontent.com/45934804/50434412-5dded980-0920-11e9-98c9-c0744dabe076.jpg" width="30%"></img>
 #### 별명과 성격
 얼굴이 빨개서 홍당무
+<br>
 생각이 많고 조용한 편
 #### 연말계획
 친구들 만나기
@@ -45,8 +47,8 @@
 ### 1조 서민호입니다.
 <img src = "https://user-images.githubusercontent.com/45934804/50434403-55869e80-0920-11e9-87ab-6556d85c23bb.jpg" width="30%"></img>
 #### 별명과 성격
-서민호
 마이노
+<br>
 차도남
 #### 연말 계획
 술
