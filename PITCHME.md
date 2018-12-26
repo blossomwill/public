@@ -1,5 +1,6 @@
 ---
 # 1조 서민수입니다.
+<img src = "https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg" width="50%"></img>
 ---
 # 별명과 성격
 해리포터 
@@ -11,7 +12,7 @@
 
 ---
 # 1조 윤종원입니다.
-<img src = "https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" width="90%"></img>
+ "https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" width="50%"></img>
 
 ---
 # 별명과 성격
@@ -23,7 +24,7 @@
 신년계획 세우기
 ---
 # 1조 김유림입니다
-<img src = "https://user-images.githubusercontent.com/45934804/50434412-5dded980-0920-11e9-98c9-c0744dabe076.jpg" width="90%"></img>
+<img src = "https://user-images.githubusercontent.com/45934804/50434412-5dded980-0920-11e9-98c9-c0744dabe076.jpg" width="50%"></img>
 ---
 # 별명과 성격
 얼굴이 빨개서 홍당무
@@ -35,7 +36,7 @@
 
 ---
 # 1조 서민호입니다.
-<img src = "https://user-images.githubusercontent.com/45934804/50434403-55869e80-0920-11e9-87ab-6556d85c23bb.jpg" width="90%"></img>
+<img src = "https://user-images.githubusercontent.com/45934804/50434403-55869e80-0920-11e9-87ab-6556d85c23bb.jpg" width="50%"></img>
 ---
 # 이름과 별명, 성격
 서민호
