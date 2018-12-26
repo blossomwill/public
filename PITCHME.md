@@ -2,17 +2,17 @@
 
 <span class="menu-title" style="display: none">About Templates</span>
 
-## <span style="color: black">About<br>one team</span>
+## <span style="color: black">About<br>One Team</span>
 
 <i class="fa fa-arrow-down text-black" aria-hidden="true"> </i>
 
 <div class="south docslink span-50">
-[최강 1조 입니다.](https://gitpitch.com/docs/the-template)
+[최강 1조](https://gitpitch.com/docs/the-template)
 </div>
 
 
 
----
+------
 
 <!-- .slide: data-background-image="./assets/md/assets/blue.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
 
@@ -23,7 +23,7 @@
 </div>
 
 <div class="west about-team-pic">
-<img src = "https://user-images.githubusercontent.com/45934804/50434875-60dac980-0922-11e9-8b14-3fe2e2a32dad.jpg" width="50%"></img>
+![Image](./assets/md/assets/wendy.jpg)
 </div>
 
 <div class="south-west text-06">
@@ -34,26 +34,8 @@
 Graphic Designer
 </div>
 
-```HTML
-<div class="west about-team-pic">
-<img src = "https://user-images.githubusercontent.com/45934804/50434403-55869e80-0920-11e9-87ab-6556d85c23bb.jpg" width="50%"></img>
-</div>
-```
-
-```HTML
-<div class="south-west text-06">
-<span style="color: #4487F2">Wendy Sesay</span>
-<br><br>
-<i class="fa fa-twitter" aria-hidden="true"> wendy</i>
-<br>
-Graphic Desi222
-</div>
-```
-
-
-
 <div class="midpoint about-team-pic about-team-pic-center">
-<img src ="https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" width="50%"></img>
+![Image](./assets/md/assets/abby.jpg)
 </div>
 
 <div class="south text-06">
@@ -65,7 +47,7 @@ Lead Developer
 </div>
 
 <div class="east about-team-pic">
-<img src = "https://user-images.githubusercontent.com/45934804/50434412-5dded980-0920-11e9-98c9-c0744dabe076.jpg" width="50%"></img>
+![Image](./assets/md/assets/berry.jpg)
 </div>
 
 <div class="south-east text-06">
@@ -80,7 +62,7 @@ Channel Marketing
 Team intro template.
 </div>
 
----
+------
 
 <!-- .slide: data-background-image="./assets/md/assets/lovelace.jpg" data-background-size="42% 65%" data-background-position="right" data-background=" " data-background-repeat=" " data-background-transition="none" -->
 
