@@ -11,6 +11,7 @@
 
 ---
 # 1조 윤종원입니다.
+<img src = "https://user-images.githubusercontent.com/45934804/50434375-4a337300-0920-11e9-95a1-010a7484639d.jpg" width="90%"></img>
 
 ---
 # 별명과 성격
